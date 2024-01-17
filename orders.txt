@@ -1,0 +1,3 @@
+
+order : BirthDay , name : , phone: , final price: 3000$
+order : BatMitzva , name : , phone: , final price: 1200$
